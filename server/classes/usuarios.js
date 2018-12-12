@@ -11,9 +11,7 @@ class Usuarios {
             nombre,
             sala
         }
-
         this.personas.push(persona);
-
         return this.personas;
 
     }
